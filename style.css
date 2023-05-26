@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-image: url('food1.jpeg.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 50px;
+  color: #45DA09;
+}
+
+input {
+  font-size: 18px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 18px;
+  padding: 10px 20px;
+  background-color: lightblue;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+#output {
+  font-size: 18px;
+  margin-top: 20px;
+}
+footer
+{
+color:blueviolet ;
+}
+p
+{
+  color: #45DA09;
+}
